@@ -1,0 +1,153 @@
+id,name,age,country,signup_date,purchase_amount
+1,Alice,27,Germany,2023-01-03,54.32
+2,Bob,34,United States,2022-11-21,103.50
+3,Charlie,29,India,2023-03-15,12.99
+4,Diana,41,United Kingdom,2022-12-02,250.00
+5,Eric,23,Canada,2023-02-10,5.75
+6,Franz,36,Germany,2022-09-18,80.10
+7,Grace,31,Australia,2023-04-07,44.90
+8,Hans,45,Germany,2022-10-29,310.67
+9,Ingrid,38,Sweden,2023-05-11,27.40
+10,Jonas,26,Norway,2023-01-25,16.20
+11,Karen,33,United States,2022-08-19,199.99
+12,Liam,22,Ireland,2023-03-01,7.80
+13,Maria,30,Spain,2023-02-14,63.25
+14,Nina,28,Germany,2022-11-05,45.00
+15,Oliver,39,United Kingdom,2023-01-09,134.10
+16,Paul,42,France,2022-09-07,220.00
+17,Quinn,24,Canada,2023-04-19,18.99
+18,Rachel,37,United States,2022-12-27,76.80
+19,Stefan,35,Germany,2023-05-03,90.45
+20,Tina,29,Austria,2023-01-30,33.33
+21,Uli,40,Germany,2022-10-11,120.00
+22,Victor,32,Brazil,2023-03-21,21.70
+23,Walter,46,Germany,2022-08-30,305.95
+24,Xenia,27,Greece,2023-02-05,14.90
+25,Yara,31,Portugal,2023-04-02,56.60
+26,Zack,25,United States,2023-01-12,8.45
+27,Anton,34,Germany,2022-11-09,67.00
+28,Ben,28,United Kingdom,2023-03-06,39.99
+29,Carla,33,Spain,2022-09-25,88.88
+30,David,41,France,2023-05-14,102.75
+31,Elena,26,Italy,2023-02-22,49.99
+32,Felix,37,Germany,2022-10-03,77.77
+33,Gina,29,Switzerland,2023-01-18,28.50
+34,Heiko,30,Germany,2022-12-13,64.40
+35,Isabel,35,Mexico,2023-03-27,93.60
+36,Jan,24,Germany,2023-04-16,19.99
+37,Klaus,39,Germany,2022-09-12,210.10
+38,Lara,28,Austria,2023-02-09,35.00
+39,Mark,33,United States,2022-11-30,145.99
+40,Nora,31,Netherlands,2023-01-27,52.20
+41,Oskar,27,Germany,2022-10-21,29.95
+42,Petra,36,Czech Republic,2023-03-10,61.70
+43,René,38,Belgium,2023-05-08,84.15
+44,Sara,25,Sweden,2023-02-01,23.40
+45,Tom,34,United Kingdom,2022-08-23,130.55
+46,Ulrich,40,Germany,2022-12-19,199.00
+47,Vera,29,Poland,2023-04-05,31.25
+48,Will,32,United States,2022-09-29,72.80
+49,Xaver,37,Germany,2023-01-06,58.70
+50,Yvonne,30,Switzerland,2023-03-19,46.10
+51,Zoe,28,Australia,2022-11-16,24.95
+52,Aaron,33,Canada,2023-02-26,81.35
+53,Bianca,27,Italy,2022-10-07,40.00
+54,Cedric,39,Germany,2023-05-02,110.20
+55,Dora,26,Spain,2023-01-15,17.80
+56,Emil,31,Austria,2022-09-05,69.90
+57,Flora,35,France,2023-04-12,97.45
+58,Gerd,29,Germany,2022-12-01,55.50
+59,Helen,34,United Kingdom,2023-03-24,63.75
+60,Ivan,25,Russia,2023-02-18,22.60
+61,Julia,32,Germany,2022-10-26,78.30
+62,Kevin,28,United States,2023-01-21,49.10
+63,Lena,30,Germany,2022-11-11,36.40
+64,Matteo,37,Italy,2023-03-03,92.20
+65,Nicole,24,Canada,2023-04-20,13.55
+66,Otto,41,Germany,2022-08-31,240.00
+67,Paula,29,Portugal,2023-02-07,53.35
+68,Quentin,33,France,2022-09-20,87.90
+69,Rita,27,Germany,2023-05-06,26.80
+70,Simon,35,Sweden,2023-01-10,60.00
+71,Tamara,31,Austria,2022-12-23,44.20
+72,Urs,38,Switzerland,2023-03-17,105.15
+73,Valerie,26,Belgium,2023-02-28,32.50
+74,Werner,36,Germany,2022-10-15,74.60
+75,Ximena,30,Mexico,2023-04-01,29.30
+76,Yigit,28,Turkey,2022-11-03,20.45
+77,Zara,34,United Kingdom,2023-01-29,68.90
+78,Adrian,27,Germany,2022-09-09,39.40
+79,Bella,32,United States,2023-03-13,96.25
+80,Chris,25,Canada,2023-02-11,18.10
+81,Dieter,39,Germany,2022-12-05,155.75
+82,Elsa,29,Sweden,2023-05-09,42.30
+83,Fabian,31,Germany,2023-01-02,51.90
+84,Gabriela,28,Spain,2022-10-19,33.80
+85,Harald,37,Austria,2023-03-29,89.60
+86,Ida,24,Denmark,2023-02-20,16.75
+87,Jonah,33,United States,2022-08-25,140.40
+88,Katia,30,Italy,2023-04-14,57.20
+89,Leo,26,Germany,2022-11-19,25.95
+90,Maya,35,Israel,2023-01-19,73.10
+91,Noah,29,Netherlands,2022-09-27,47.85
+92,Olga,34,Poland,2023-03-08,66.60
+93,Peter,38,Germany,2022-12-29,118.45
+94,Queenie,27,United Kingdom,2023-02-24,30.00
+95,Ralph,31,United States,2022-10-01,83.70
+96,Sabine,28,Germany,2023-05-01,38.25
+97,Theo,36,France,2023-01-08,99.99
+98,Ute,25,Germany,2022-11-27,19.50
+99,Viktor,32,Russia,2023-03-22,54.60
+100,Wanda,30,Germany,2022-09-17,41.20
+101,User101,20,Germany,2023-01-01,10.00
+102,User102,21,Germany,2023-01-02,11.00
+103,User103,22,Germany,2023-01-03,12.00
+104,User104,23,Germany,2023-01-04,13.00
+105,User105,24,Germany,2023-01-05,14.00
+106,User106,25,Germany,2023-01-06,15.00
+107,User107,26,Germany,2023-01-07,16.00
+108,User108,27,Germany,2023-01-08,17.00
+109,User109,28,Germany,2023-01-09,18.00
+110,User110,29,Germany,2023-01-10,19.00
+111,User111,30,Germany,2023-01-11,20.00
+112,User112,31,Germany,2023-01-12,21.00
+113,User113,32,Germany,2023-01-13,22.00
+114,User114,33,Germany,2023-01-14,23.00
+115,User115,34,Germany,2023-01-15,24.00
+116,User116,35,Germany,2023-01-16,25.00
+117,User117,36,Germany,2023-01-17,26.00
+118,User118,37,Germany,2023-01-18,27.00
+119,User119,38,Germany,2023-01-19,28.00
+120,User120,39,Germany,2023-01-20,29.00
+121,User121,40,Germany,2023-01-21,30.00
+122,User122,41,Germany,2023-01-22,31.00
+123,User123,42,Germany,2023-01-23,32.00
+124,User124,43,Germany,2023-01-24,33.00
+125,User125,44,Germany,2023-01-25,34.00
+126,User126,45,Germany,2023-01-26,35.00
+127,User127,46,Germany,2023-01-27,36.00
+128,User128,47,Germany,2023-01-28,37.00
+129,User129,48,Germany,2023-01-29,38.00
+130,User130,49,Germany,2023-01-30,39.00
+131,User131,20,Germany,2023-01-31,10.10
+132,User132,21,Germany,2023-02-01,11.10
+133,User133,22,Germany,2023-02-02,12.10
+134,User134,23,Germany,2023-02-03,13.10
+135,User135,24,Germany,2023-02-04,14.10
+136,User136,25,Germany,2023-02-05,15.10
+137,User137,26,Germany,2023-02-06,16.10
+138,User138,27,Germany,2023-02-07,17.10
+139,User139,28,Germany,2023-02-08,18.10
+140,User140,29,Germany,2023-02-09,19.10
+141,User141,30,Germany,2023-02-10,20.10
+142,User142,31,Germany,2023-02-11,21.10
+143,User143,32,Germany,2023-02-12,22.10
+144,User144,33,Germany,2023-02-13,23.10
+145,User145,34,Germany,2023-02-14,24.10
+146,User146,35,Germany,2023-02-15,25.10
+147,User147,36,Germany,2023-02-16,26.10
+148,User148,37,Germany,2023-02-17,27.10
+149,User149,38,Germany,2023-02-18,28.10
+150,User150,39,Germany,2023-02-19,29.10
+999,User999,39,Germany,2023-09-25,39.90
+1000,User1000,40,Germany,2023-09-26,40.00
